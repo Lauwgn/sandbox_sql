@@ -45,3 +45,5 @@ CREATE TABLE products(
     );
 
 SHOW TABLES;
+
+DROP TABLE IF EXISTS essais;
